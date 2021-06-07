@@ -54,7 +54,7 @@ input,#signup{
 #details{
     padding: 10px;
 }
-#menu img{
+#menu img,#cart img{
     width: 100%;
     border-radius: 15px 15px 0 0;
 }
